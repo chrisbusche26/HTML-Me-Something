@@ -1,1 +1,16 @@
-/* Write your CSS here! */
+img {
+    height: 250px; 
+    width: 400px;
+}
+
+body {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-image: linear-gradient(to right, #F0F2F0, #142264);
+}
+
+.heading {
+    padding-top: 50px;
+}
